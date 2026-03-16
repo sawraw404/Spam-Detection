@@ -295,16 +295,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/spam-detection-ml/issues).
-
----
-
-## ⭐ Acknowledgments
-
-- UCI Machine Learning Repository for providing the Spambase dataset
-- Scikit-learn developers for excellent machine learning tools
-- Peter Flach for comprehensive ML methodology guidance
-
----
