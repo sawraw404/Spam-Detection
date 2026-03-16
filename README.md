@@ -308,5 +308,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Peter Flach for comprehensive ML methodology guidance
 
 ---
-
-**Built with ❤️ for Machine Learning research and education**
